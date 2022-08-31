@@ -1,2 +1,3 @@
 # reading_csv
-Reading csv file and analyzing it.
+## Code reading file and print in console total income, total expense and breakdown of expenses.
+It can be adapted to different tasks.
