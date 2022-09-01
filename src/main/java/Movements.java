@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class Movements {
-    public static final String pathToMovementCSV = "D:/skillbox/Git/java_basics/13_FilesAndNetwork/files/movementList.csv";
+    public static final String pathToMovementCSV = "src/test/resources/movementList.csv";
     private String accountType;
     private String accountNumber;
     private String currency;
